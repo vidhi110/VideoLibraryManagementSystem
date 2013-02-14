@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/VideoLibrary/Service.java=UTF-8
+encoding//src/VideoLibrary/ServiceService.java=UTF-8
+encoding//src/VideoLibrary/ServiceServiceLocator.java=UTF-8
+encoding//src/VideoLibrary/ServiceSoapBindingStub.java=UTF-8
+encoding//src/entity/Cart.java=UTF-8
+encoding//src/entity/Movie.java=UTF-8
+encoding//src/entity/Person.java=UTF-8
+encoding//src/entity/PremiumMembers.java=UTF-8
+encoding//src/entity/SimpleMembers.java=UTF-8
+encoding//src/entity/Transactions.java=UTF-8
